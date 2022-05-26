@@ -1,0 +1,25 @@
+.aboutMain {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+
+  margin-left: 18rem;
+  color: rgb(255, 255, 255);
+  justify-content: center;
+}
+.aboutCard {
+  background-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  text-align: justify;
+  padding: 2rem;
+}
+text {
+  font-size: x-small;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+
+h3 {
+  margin-top: 3rem;
+  align-self: center;
+}

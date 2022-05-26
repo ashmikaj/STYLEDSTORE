@@ -1,0 +1,61 @@
+.loginCard {
+  display: flex;
+  flex-direction: row;
+  width: 30%;
+
+  height: 15rem;
+  margin-top: 3rem;
+  justify-content: center;
+}
+.loginForm {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  margin-left: 25rem;
+}
+
+.userInput {
+  width: 120%;
+  height: 1.5rem;
+  align-self: center;
+}
+.passInput {
+  width: 120%;
+  height: 1.5rem;
+  align-self: center;
+}
+
+.signIn {
+  border: 1rem;
+  width: 50%;
+  margin-top: 1rem;
+  height: 2rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: xx-small;
+  align-self: center;
+}
+.errmsg {
+  background-color: lightpink;
+  color: firebrick;
+  font-weight: bold;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.offscreen {
+  position: absolute;
+  left: -9999px;
+}
+
+.signInLabel {
+  margin-left: 30rem;
+}
+
+h5 {
+  margin-left: 30rem;
+  font-size: xx-small;
+}
+
+h5 a {
+  margin-left: 1.5rem;
+}

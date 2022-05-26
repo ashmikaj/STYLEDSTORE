@@ -1,0 +1,62 @@
+.admin {
+  margin-top: 3rem;
+  color: rgb(0, 0, 0);
+  margin-left: 40rem;
+}
+
+.adminbutton {
+  margin-left: 43rem;
+}
+
+.adminbutton button {
+  background-color: black;
+  color: rgb(251, 251, 251);
+  border-radius: 1rem;
+}
+
+.adminbutton button:hover {
+  border-color: 1rem solid rgb(0, 0, 0);
+  color: black;
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
+.welcome {
+  color: rgb(0, 0, 0);
+}
+
+.admincard {
+  margin-left: 20rem;
+}
+
+.styleform {
+  margin-left: 40rem;
+}
+
+.styleheading {
+  width: 50%;
+  justify-content: center;
+  margin-top: -3rem;
+}
+
+.bloginput {
+  width: 50%;
+  height: 10rem;
+}
+.stylesubmit {
+  background-color: black;
+  color: rgb(251, 251, 251);
+  border-radius: 1rem;
+  margin-left: 15rem;
+}
+
+.stylesubmit:hover {
+  border-color: 1rem solid rgb(0, 0, 0);
+  color: black;
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
+.greeting {
+  margin-top: -1rem;
+}

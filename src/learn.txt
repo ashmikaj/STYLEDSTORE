@@ -1,0 +1,15 @@
+use memo
+use router 
+order history page 
+style blog editable 
+use of axios 
+cart provider 
+  -//convert if else to factory
+  -//two different handler for Add and remove
+
+  typography
+  login
+
+  pure functions 
+  
+  

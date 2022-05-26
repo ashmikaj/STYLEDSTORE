@@ -1,0 +1,66 @@
+.detailsMain {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-left: 18rem;
+  color: rgb(255, 255, 255);
+  justify-content: center;
+}
+.detailsCard {
+  background-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  text-align: justify;
+  padding: 2rem;
+}
+
+h2 {
+  margin-top: 3rem;
+  align-self: flex-start;
+}
+
+.detailsImage {
+  margin-top: 1rem;
+  height: 10%;
+  width: 40%;
+  margin-bottom: 3rem;
+}
+.detailsflex {
+  display: flex;
+  flex-direction: row;
+  gap: 5rem;
+}
+
+p {
+  font-size: xx-small;
+}
+
+.detailsButton {
+  font: inherit;
+  cursor: pointer;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  color: rgb(0, 0, 0);
+  padding: 0.25rem 2rem;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: xx-small;
+  width: 8rem;
+}
+
+.detailsButton:hover {
+  background-color: #000000;
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.homelink {
+  text-decoration: none;
+  color: white;
+}
+.gohome {
+  margin-left: 1rem;
+}
+.gohome:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
